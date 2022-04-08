@@ -13,3 +13,4 @@ pg_dump -U $USER_DB -h localhost --port 5432 -f ${NAME} $NAME_DB
 echo "backup terminado"
 
 
+#asdjkajkdslkadw
